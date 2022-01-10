@@ -32,4 +32,5 @@ The heatmap below dipslays the number of trips each customer by gender checks th
 In conclusion, bikes are rented thgrough the week most frequently in the morning around 8AM and in the evening around 5/6PM and most frequently by men. This suggests that the majority of rides may be related to commute taking into consideration that the lengths of the rides average less then 10 minutes. The rest may be short trips around town by tourists. The data also suggests that bike sharing is more popular with men than women. Taking these conslusions into consideration, I would recommend the additional visualizations for further analysis:
 
 -creating a graph that displays length of checkout time to user type (customer/subscriber) to determine any difference in ride time between tourists and locals, granted that locals using bikeshare for cummute will likley be subscribers compared to tourists who are only staying in town short term and less likley to buy a subscription.
+
 -adding the user type (customer/subscriber) as a filter on the "Top Starting Locations" map to identify a possible difference in locations tourists bikeshare versus the locals.
