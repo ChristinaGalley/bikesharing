@@ -1,4 +1,4 @@
-# **Bike_Sharing**
+# **bikesharing**
 ---
 ## Project Overview
 The purpose of this analysis was to...
