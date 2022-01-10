@@ -3,7 +3,7 @@
 ## Project Overview
 The purpose of this analysis was to convince investors that a bike-sharing program in Des Moines is a solid business proposal by showing the length of time that bikes are checked out for all riders and genders, the number of bike trips for all riders and genders for each hour of each day of the week, and the number of bike trips for each type of user and gender for each day of the week. This bike trip analysis utilizes Pandas for data conversion and Tableau for data visualization. 
 
-Please follow this link to view the published Tableau story:
+Please follow this link to view the published Tableau story: [NYC CitiBike Story](https://public.tableau.com/app/profile/christina.galley/viz/NYCCitiBikeStory_16417795923720/NYCCitiBikeStory?publish=yes)
 
 ---
 ## Results
